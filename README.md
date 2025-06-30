@@ -21,5 +21,9 @@ The game doesn't save progress, so if you accidentally press Home, I'm sorry :((
 
 ## P/S
 
-It has been a while since I last opened this project. Now looking at it, I realized it can be renovated more: starting with cleaning up the code, adding an Undo/Redo button, a Solve-all button, so I don't 
+It has been a while since I last opened this project. Now looking at it, I realized it can be renovated more: 
+
+starting with cleaning up the code, adding an Undo/Redo button, a Solve-all button, so I don't 
 have to press the Hint button 40 times, a resume button to prevent accidentally pressing Home, and difficulty settings.
+
+There is a zip file with .exe, just need to download and extract it to desired directory. The .exe should be at the same place with the data folder
